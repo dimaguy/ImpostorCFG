@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\bin\Debug\ImpostorCFG.exe.config
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\bin\Debug\ImpostorCFG.exe
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\bin\Debug\ImpostorCFG.pdb
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\bin\Debug\ImpostorCFG.xml
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Debug\ImpostorCFG.vbprojAssemblyReference.cache
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Debug\ImpostorCFG.Form1.resources
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Debug\ImpostorCFG.Resources.resources
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Debug\ImpostorCFG.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Debug\ImpostorCFG.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Debug\ImpostorCFG.exe
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Debug\ImpostorCFG.xml
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Debug\ImpostorCFG.pdb

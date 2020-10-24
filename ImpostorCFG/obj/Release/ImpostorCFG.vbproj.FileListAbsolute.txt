@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\bin\Release\ImpostorCFG.exe.config
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\bin\Release\ImpostorCFG.exe
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\bin\Release\ImpostorCFG.pdb
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\bin\Release\ImpostorCFG.xml
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Release\ImpostorCFG.Form1.resources
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Release\ImpostorCFG.Resources.resources
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Release\ImpostorCFG.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Release\ImpostorCFG.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Release\ImpostorCFG.exe
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Release\ImpostorCFG.xml
+C:\Users\hp\source\repos\ImpostorCFG\ImpostorCFG\obj\Release\ImpostorCFG.pdb
